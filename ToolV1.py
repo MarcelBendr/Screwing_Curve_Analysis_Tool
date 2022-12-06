@@ -5,7 +5,7 @@
 #  eine namens Drehmoment_df.pickle und eine namens Drehwinkel_df.pickle)
 filepath = 'C:/Users/Anwender/Desktop/AURSAD/Finaler Code Masterarbeit/'
 #  Soll eine Klassifikation oder Anomalieerkennung vorgenommen werden?
-select_classification = False
+select_classification = True
 #  Liegen Zeitreihendaten oder bereits extrahierte Features vor?
 is_time_series_data = False
 
